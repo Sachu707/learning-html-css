@@ -1,0 +1,134 @@
+*{
+    
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 0%;
+    margin-right:0%;
+}
+body{
+    background-color: black;
+    font-size: 17px;
+    line-height: 1.5em;
+}
+h1{
+    color: white;
+}
+h2{
+    color: white;
+}
+h3{
+    color: white;
+}
+.clr{
+    clear:both;
+}
+.title{
+    margin-top: 25px;
+    padding: auto;
+    border-radius: 15px;
+    margin-left: 3px;
+    margin-right: 3px;
+    
+    padding-bottom: 5px;
+    border-top:2px rgb(245, 245, 225) solid ;
+    border-bottom:2px rgb(247, 247, 247) solid ;
+    background-color:#333
+    
+    
+}
+#heading{
+    color: rgb(255, 255, 255);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font: weight 800;
+}
+
+.Empowers{
+   
+    float: right;
+    height: 215px;
+    padding-right: 3px;
+    width: 50%;
+    border-style: groove ;
+    font-weight: 600;
+    border-color: #ccc;
+    margin-bottom: 50px;
+    border-right: 3px;
+    box-sizing: border-box;
+    padding-left: 20px;
+    background-color: rgba(255, 230, 0, 0.664);
+    color:rgba(255, 250, 250, 0.74)
+}
+.provide{
+    float: left;
+    font-weight: 600;
+    height: 215px;
+    width: 50%;
+    border-style: groove;
+    border-color: #ccc;
+    box-sizing: border-box;
+    padding-left: 20px;
+    background-color: rgba(245, 241, 0, 0.719);
+    color:rgb(44, 12, 12)
+    
+}
+
+#img{
+    padding-top: 5px;
+    border-color: rgb(21, 138, 233);
+    border: 3;
+    
+}
+.par{
+    margin: 20px;
+    word-spacing: .8em;
+    letter-spacing: .1em;
+    width: 80%;
+    background-color: rgb(230, 186, 133,.3);
+    padding: 10px;
+    border-radius: 10px;
+    margin: 20px;
+    
+}
+td{
+    font-weight:600;
+    text-align:center
+    
+}
+tr:hover{
+    background-color:bisque
+    
+}
+th{
+    background-color: chocolate;
+    color: #ccc;
+}
+table{
+    border: green;
+}
+#ce{
+    font-weight: 800;
+    margin: 20px;
+    color: darkgoldenrod;
+}
+#ms{
+    font-weight: 800;
+    margin: 20px;
+    color: darkgoldenrod;
+}
+.button{
+    position:fixed;
+    top:400px;
+    color: blue;
+    margin-left: 95%;
+}
+a:hover{
+    color:green
+}
+p{
+    color: white;
+}
+td{
+    color: white;
+}
+li{
+    color: white;
+}
